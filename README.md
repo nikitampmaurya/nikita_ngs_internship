@@ -1,4 +1,4 @@
-Welcome to our Variant Calling Project
+Welcome to our NGS Project
 Completed under the guidance of Prof. Sreeram Peela and NyBerMann Bioinformatics Team 
 Collaborate with Nayan Kasturi, Nimisha Singh and PrarthiKothari.
 Project Raw Data:
